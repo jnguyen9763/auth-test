@@ -15,7 +15,7 @@ import PrivateRoute from './auth/PrivateRoute';
 function App() {
 	return (
 		<AuthProvider>
-			<Router>
+			<Router basename="/auth-test">
 				<Switch>
 					<Route component={Login} path="/login" />
 					<PrivateRoute component={Home} exact path="/" />
