@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/auth-test/static/css/main.79bfbab1.chunk.css",
-    "main.js": "/auth-test/static/js/main.90dd7625.chunk.js",
-    "main.js.map": "/auth-test/static/js/main.90dd7625.chunk.js.map",
+    "main.js": "/auth-test/static/js/main.edeb15e2.chunk.js",
+    "main.js.map": "/auth-test/static/js/main.edeb15e2.chunk.js.map",
     "runtime-main.js": "/auth-test/static/js/runtime-main.f1901adc.js",
     "runtime-main.js.map": "/auth-test/static/js/runtime-main.f1901adc.js.map",
     "static/css/2.74cc536b.chunk.css": "/auth-test/static/css/2.74cc536b.chunk.css",
     "static/js/2.88c65cf5.chunk.js": "/auth-test/static/js/2.88c65cf5.chunk.js",
     "static/js/2.88c65cf5.chunk.js.map": "/auth-test/static/js/2.88c65cf5.chunk.js.map",
     "index.html": "/auth-test/index.html",
-    "precache-manifest.d9a18fb52d16d99fc8fe1a3f54d24e36.js": "/auth-test/precache-manifest.d9a18fb52d16d99fc8fe1a3f54d24e36.js",
+    "precache-manifest.497d7c926c8af6514fdf23e286359b9f.js": "/auth-test/precache-manifest.497d7c926c8af6514fdf23e286359b9f.js",
     "service-worker.js": "/auth-test/service-worker.js",
     "static/css/2.74cc536b.chunk.css.map": "/auth-test/static/css/2.74cc536b.chunk.css.map",
     "static/css/main.79bfbab1.chunk.css.map": "/auth-test/static/css/main.79bfbab1.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.74cc536b.chunk.css",
     "static/js/2.88c65cf5.chunk.js",
     "static/css/main.79bfbab1.chunk.css",
-    "static/js/main.90dd7625.chunk.js"
+    "static/js/main.edeb15e2.chunk.js"
   ]
 }
