@@ -1,0 +1,1 @@
+{"version":3,"sources":["global.css"],"names":[],"mappings":"AAAA,wBACC,WAAY,CACZ,UACD,CAEA,QACC,sBAAwB,CACxB,sBAAuB,CACvB,kBACD","file":"main.79bfbab1.chunk.css","sourcesContent":["html, body, #root, .center {\r\n\theight: 100%;\r\n\twidth: 100%;\r\n}\r\n\r\n.center {\r\n\tdisplay: flex !important;\r\n\tjustify-content: center;\r\n\talign-items: center;\r\n}"]}
